@@ -1,5 +1,6 @@
 # vercel-ai-playground-latex
 A [Tampermonkey](https://www.tampermonkey.net/) script to render LaTeX in [Vercel AI Playground](https://sdk.vercel.ai/playground).
+## [Install](https://greasyfork.org/en/scripts/533464-vercel-sdk-playground-tidy-inline-latex)
 
 I don't have a $\LaTeX$ math compiler in my brain so I ~~made~~ vibe coded this.
 
